@@ -1,0 +1,30 @@
+body{
+    background-color: #F0F3DE;
+}
+
+.center-div{
+    padding-top: 10%;
+
+}
+.btn{
+    margin-top: 11px;
+    padding: 0.7em 4em;
+    background-color: #fff;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.container {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold   ;
+    background-color: #331a10ba;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.form-group{
+    margin-top: 11px;
+}
+form{
+    padding: 0 2rem;
+}
